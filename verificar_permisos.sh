@@ -1,3 +1,4 @@
+
 #!/bin/bash
 
 if [ -r $1 ]; then
